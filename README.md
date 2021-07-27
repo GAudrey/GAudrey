@@ -1,3 +1,5 @@
 ### Hi everyone 🖖
 
-I'm Audrey and I'm learning to become a junior webdev at BeCode.org in Brussels, Belgium.
+I'm Audrey, Junior Web Developer.
+
+I worked with HTML, CSS, JS, PHP (v.7), SQL/MySQL, Bulma, Laravel (v.8), React and I'm interresed in C, C#, Angular, Node.js.
