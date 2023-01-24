@@ -1,3 +1,3 @@
 ### Hi everyone 🖖
 
-I'm Audrey, Junior Web Developer.
+I'm Audrey, front-End Web Developer in training.
